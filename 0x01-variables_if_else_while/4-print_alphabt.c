@@ -13,7 +13,7 @@ int main(void)
 		if (n == 101 || n == 113)
 		{
 			n++;
-			break;
+		continue;
 		}
 		putchar('\n');
 		n++;
