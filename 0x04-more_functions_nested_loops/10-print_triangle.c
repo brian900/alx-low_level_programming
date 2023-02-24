@@ -1,4 +1,4 @@
-#include "main.c"
+#include "main.h"
 /**
  * print_triangle - prints a triangle followed by a new line
  * @size: size of a triangle
