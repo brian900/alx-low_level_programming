@@ -1,4 +1,4 @@
-#include "main"
+#include "main.h"
 
 /**
  * mul - Multiplies two integers
@@ -7,7 +7,7 @@
  * Return: The result of multiplication between g param  and h param
  */
 
-int mul(int g, int h);
+int mul(int g, int h)
 {
 	return (g * h);
 }
