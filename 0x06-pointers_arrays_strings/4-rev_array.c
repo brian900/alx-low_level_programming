@@ -3,7 +3,7 @@
  * reverse_array - reverses the content of an array of integers.
  * @n : number of elsements of an array
  * @a: array to be reversed
- * Return: void
+ * Return: empty
  */
 void reverse_array(int *a, int n)
 {
@@ -17,5 +17,4 @@ void reverse_array(int *a, int n)
 		a[e] = a[n];
 		a[n] = b;
 	}
-	return (0);
 }
