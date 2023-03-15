@@ -1,6 +1,7 @@
-#include "main.h"
-#include <stdlib.h>
 #include <stdio.h>
+#include <stdlib.h>
+#include "main.h"
+
 /**
  * free_grid - function that frees a 2 dimensional grid.
  * @height: height of the array
