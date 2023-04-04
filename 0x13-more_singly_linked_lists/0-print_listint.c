@@ -1,6 +1,7 @@
 #include <stddef.h>
 #include <stdio.h>
 #include "lists.h"
+#include <string.h>
 /**
  * print_listint - prints all the elements of a listint_t list
  * @h: pointer to the head node of the list
